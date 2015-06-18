@@ -8,4 +8,4 @@ _Not developed or supported by Brightcove._
 Requirements
 =====
 
-Designed for the Brightcove Video Cloud Flash player.
+Designed for the Brightcove Video Cloud Smart Player (Flash only).
